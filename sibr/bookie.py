@@ -8,7 +8,7 @@ from peewee import SqliteDatabase, Model, CharField, ForeignKeyField, \
 # Constants
 STARTING_MONEY = 6900
 DATABASE_FILE = "test.sqlite"
-DISCORD_TOKEN = "ODE1NjExMDQwMDU3OTE3NDUw.YDu6-Q.o6vzDIwqdsLGIsRfWX6kg3bsNhU"
+DISCORD_TOKEN = "THE OLD TOKEN HAS BEEN REVOKED"
 COMMAND_PREFIX = "!b "
 
 # Bet type enumeration
